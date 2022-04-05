@@ -1,0 +1,37 @@
+/*CSS STYLE SHEET*/
+
+font {
+color: rgb(211,211,91);
+
+}
+
+body {
+  background-color: rgb(#eee);
+}
+
+/* Tags */
+h2 {
+  color: green;
+  background: rgba(111, 111, 111); /* rgba */
+  text-align: center;
+}
+
+/* IDs */
+#destacado {
+  color: goldenrod;
+
+}
+
+/* Class */
+.titulo-accion {
+  color: #b5fcb0; /* hexadecimal */
+  background-color: rgb(14, 53, 40); /* rgb */
+
+}
+
+/* Pargraph */
+p {
+  color: darkblue;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
